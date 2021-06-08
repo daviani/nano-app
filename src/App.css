@@ -1,0 +1,14 @@
+.picture {
+    height: 100px;
+    width: 100px;
+}
+
+
+background {
+    background:rgba(0,0,0,0.5);
+}
+
+img {
+    height: 40px;
+    width: 40px;
+}
